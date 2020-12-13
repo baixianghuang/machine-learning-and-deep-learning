@@ -1,3 +1,1 @@
-# Machine Learning Algorithms
-
-## Review and implement some of classic machine learning algorithms
+## Implementations and programming exercises of some classic machine learning and deep learning algorithms.
